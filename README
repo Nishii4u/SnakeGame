@@ -1,9 +1,11 @@
-Instructions to run: 
+Instructions to run The Game : 
 
-1. Open terminal: 
+1. Installations and Requirements:
+Latest Version Of Java JDK and Java JRE must be Installed and Environment Variable should be created.
 
-First command: javac GameFrame.java GamePanel.java SnakeGame.java
+2.IDE: 
+Eclipse IDE is preffered.
 
-Second command: java GameFrame GamePanel SnakeGame
+3. Code
+All the appropriate Packages and Modules should be imported 
 
-Program will then open.
